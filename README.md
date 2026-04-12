@@ -6,7 +6,7 @@ US
 
 # Program Launcher 🚀
 
-!\[Python Version](https://img.shields.io/badge/python-3.13-blue)
+![Python Version](https://img.shields.io/badge/python-3.13-blue)
 ![PyQt6](https://img.shields.io/badge/GUI-PyQt6-green)
 ![License: GPL](https://img.shields.io/badge/License-GPL%203.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey)
